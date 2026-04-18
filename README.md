@@ -48,7 +48,6 @@ Steps
 
 ## 6. Project Structure
 
-
 acc102-stock-analysis/
 ├── notebook.ipynb          # Main analysis file
 ├── README.md               # This file
@@ -56,12 +55,13 @@ acc102-stock-analysis/
 └── figures/                # Output charts
     ├── rsi_analysis.png
     └── macd_analysis.png
-    
-```
 
+``
 ##  7. Demo Video
 
 [Link to your Mediasite demo video]
+
+``
 
 ##  8. Limitations
 
