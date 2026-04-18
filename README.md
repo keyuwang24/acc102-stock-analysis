@@ -44,8 +44,9 @@ Steps
 3. Run all cells sequentially (you need WRDS credentials)
 4. Charts will be saved to figures/ folder
 
+```
 
-## 6. Project StructureProject Structure
+## 6. Project Structure
 
 acc102-stock-analysis/
 ├── notebook.ipynb          # Main analysis file
