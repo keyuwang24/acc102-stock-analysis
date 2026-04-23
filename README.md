@@ -59,7 +59,7 @@ acc102-stock-analysis/
 
 ##  7. Demo Video
 
-[Link to your Mediasite demo video]
+[https://video.xjtlu.edu.cn/Mediasite/Play/7d08e192ec624e6bb42fdf3cd0a35fb81d]
 
 ``
 
