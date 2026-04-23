@@ -37,14 +37,18 @@
 ### Requirements
 ```bash
 pip install -r requirements.txt
-Steps
+## 5. How to Run
 
+### Requirements
+```bash
+pip install -r requirements.txt
+
+### Steps
 1. Clone this repository
-2. Open notebook.ipynb in Jupyter Notebook
-3. Run all cells sequentially (you need WRDS credentials)
-4. Charts will be saved to figures/ folder
-
-```
+2. Open `notebook.ipynb` in Jupyter Notebook
+3. If you have WRDS access, replace `your_username` with your credentials and run all cells
+4. If you don't have WRDS access, the notebook contains pre-computed outputs for review
+5. Charts will be saved to `figures/` folde
 
 ## 6. Project Structure
 ```
