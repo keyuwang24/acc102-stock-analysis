@@ -65,7 +65,7 @@ acc102-stock-analysis/
 ``
 
 ##  8. AI Acknowledgement
-
+``
 This project was assisted by DeepSeek (deepseek.com) in:
 
 · Code structure and RSI/MACD implementation
