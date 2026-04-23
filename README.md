@@ -79,10 +79,12 @@ All final analysis and conclusions were validated by the author.
 
 ##  9. Limitations
 
+``
 · Single stock analysis (AAPL only)
 · WRDS access required to run the code
 · No transaction costs considered
 · MACD analysis limited by zero signals
+``
 
 ##  10. Author
 
