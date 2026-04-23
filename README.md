@@ -48,7 +48,6 @@ Steps
 
 ## 6. Project Structure
 
-```
 acc102-stock-analysis/
 ├── notebook.ipynb          # Main analysis file
 ├── README.md               # This file
@@ -56,21 +55,35 @@ acc102-stock-analysis/
 └── figures/                # Output charts
     ├── rsi_analysis.png
     └── macd_analysis.png
-```
 
+``
 ##  7. Demo Video
 
 [Link to your Mediasite demo video]
 
 ``
 
-##  8. Limitations
+##  8. AI Acknowledgement
+
+This project was assisted by DeepSeek (deepseek.com) in:
+
+· Code structure and RSI/MACD implementation
+· Signal logic and return calculations
+· Debugging data alignment issues
+· README and requirements.txt drafting
+
+All final analysis and conclusions were validated by the author.
+
+``
+
+
+##  9. Limitations
 
 · Single stock analysis (AAPL only)
 · WRDS access required to run the code
 · No transaction costs considered
 · MACD analysis limited by zero signals
 
-##  9. Author
+##  10. Author
 
 Keyu Wang - ACC102 Mini Assignment, April 2026
