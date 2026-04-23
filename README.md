@@ -65,17 +65,17 @@ acc102-stock-analysis/
 ``
 
 ##  8. AI Acknowledgement
-``
+
 This project was assisted by DeepSeek (deepseek.com) in:
 
-· Code structure and RSI/MACD implementation
-· Signal logic and return calculations
-· Debugging data alignment issues
-· README and requirements.txt drafting
+```
+- Code structure and RSI/MACD implementation
+- Signal logic and return calculations
+- Debugging data alignment issues
+- README and requirements.txt drafting
+```
 
 All final analysis and conclusions were validated by the author.
-
-``
 
 ##  9. Limitations
 
